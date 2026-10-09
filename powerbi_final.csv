@@ -1,0 +1,7 @@
+Product,Warehouse,Current_Stock,Daily_Demand,Lead_Time_Days,Unit_Cost,Days_of_Stock,Demand_Before_Delivery,Potential_Shortage,Safety_Stock,Transferable_Stock,Inventory_Value,Recommended_Action,Recommended_Units,Delivery_Days,Estimated_Cost,Remaining_Shortage,Decision_Status,Business_Cost
+Water Bottles,Warehouse A,20,15,4,120,1.33,60,40,30,0,2400,Warehouse Transfer,30.0,1.0,340.0,10.0,PARTIAL RESCUE,840.0
+Water Bottles,Warehouse B,50,10,5,120,5.0,50,0,20,30,6000,,,,,,,
+School Bags,Warehouse A,120,12,6,450,10.0,72,0,24,96,54000,,,,,,,
+School Bags,Warehouse B,80,15,5,450,5.33,75,0,30,50,36000,,,,,,,
+Lunch Boxes,Warehouse A,60,8,4,250,7.5,32,0,16,44,15000,,,,,,,
+Lunch Boxes,Warehouse B,100,12,6,250,8.33,72,0,24,76,25000,,,,,,,
